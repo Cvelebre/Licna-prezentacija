@@ -1,6 +1,4 @@
 # Licna-prezentacija
 
-Malo saljivo ali istinito napisana.
+Malo saljivo ali u svakoj sali ima dosta istine.
 
-#Autor
-Boban CVetkovic
