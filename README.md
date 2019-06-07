@@ -2,5 +2,5 @@
 
 Malo saljivo ali istinito napisana.
 
-Autor
+#Autor
 Boban CVetkovic
